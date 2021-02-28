@@ -1,0 +1,9 @@
+Package: com.TitanD3v.colourmydock
+Name: ColourMyDock
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Colour your dock with iOS 14 colour picker
+Maintainer: TitanD3v
+Author: TitanD3v
+Section: Tweaks
